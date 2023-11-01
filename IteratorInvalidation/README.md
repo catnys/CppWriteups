@@ -1,5 +1,5 @@
 # Welcome to the World of Iterator Invalidation! ✨ 
-Hello there, lovely readers! Welcome to this readme.md, where we'll explore the fascinating world of iterator invalidation in C++. We promise to keep things friendly, feminine, and fun while discussing this important topic.
+Hello there, lovely readers! Welcome to this readme.md, where we'll explore the fascinating world of iterator invalidation.
 
 ## What Does Iterator Invalidation Mean? 🌼
 So, what's this iterator invalidation all about? Well, it's like knowing when to change your shoes to keep the dance going smoothly. Iterator invalidation occurs when an iterator, which is like your dance partner in the C++ world, is no longer valid due to certain operations performed on the container it's associated with.
