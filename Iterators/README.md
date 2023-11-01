@@ -1,6 +1,6 @@
 ## Welcome to the Wonderful World of C++ STL Iterators! 🌸
 
-Hey there, lovely readers! Welcome to this readme.md where we'll dive into the fabulous realm of C++ STL iterators. We promise to keep things friendly, feminine, and fun while exploring this topic together. 
+Hey there, lovely readers! Welcome to this readme.md where we'll dive into the fabulous realm of C++ STL iterators. We promise to keep things friendly fun while exploring this topic together. 
 
 ## What Are STL Iterators? 🌼
 So, what's the deal with these STL iterators, you might ask? Well, iterators are like the stylish tour guides of the C++ `Standard Template Library (STL)`. They help you navigate through various data structures, such as vectors, lists, and more, without needing to know the gory details of the underlying data storage.
