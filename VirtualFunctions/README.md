@@ -101,4 +101,4 @@ private:
 ```
 
 
-In this example, Shape is an abstract base class that defines the interface for shapes. Circle is a concrete derived class that implements the `area()` and `perimeter()` functions for circles. Since Shape has pure virtual functions, it cannot be instantiated directly, but only through derived classes that implement the pure virtual functions. Thank you for taking ur time !
+In this example, Shape is an abstract base class that defines the interface for shapes. Circle is a concrete derived class that implements the `area()` and `perimeter()` functions for circles. Since Shape has pure virtual functions, it cannot be instantiated directly, but only through derived classes that implement the pure virtual functions.
