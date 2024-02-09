@@ -35,7 +35,7 @@ int WordCounter(string s)
 
 int main()
 {
-    string sample = "Sample code from me0wiss";
+    string sample = "Sample code from cat";
     cout << " Word Count: " << WordCounter(sample);
     return 0;
 }
