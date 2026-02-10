@@ -1,4 +1,4 @@
-# C++ Writeups 🌠
+# C++ Writeups
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ---
 
@@ -8,7 +8,7 @@ Welcome to the C++ Writeups repository! This is the place where we explore vario
 
 C++ is a powerful and versatile programming language that is widely used for developing a wide range of software applications. It combines features of both low-level and high-level languages, making it suitable for systems programming, game development, web development, and more. Whether you are a beginner or an experienced programmer, you can find valuable insights, tips, and resources in this repository to enhance your C++ knowledge.
 
-## Repository Content 🧡
+## Repository Content 
 
 This repository contains a collection of C++ writeups and code examples that cover a broad spectrum of topics, including but not limited to:
 
@@ -20,7 +20,7 @@ This repository contains a collection of C++ writeups and code examples that cov
 - **Concurrency:** Explore multithreading and concurrent programming in C++.
 - **Best Practices:** Find tips and best practices for writing efficient and maintainable C++ code.
 
-## Getting Started 🎄
+## Getting Started 
 
 If you're new to C++ or looking to refresh your knowledge, you can start with the introductory writeups and simple code examples in this repository. Each topic is organized into a separate folder with relevant writeups and code files.
 
@@ -29,12 +29,10 @@ If you're new to C++ or looking to refresh your knowledge, you can start with th
 3. Experiment with the provided code examples and practice on your own.
 4. Feel free to open issues or pull requests if you have questions or suggestions.
 
-## Contributions 🌸
+## Contributions 
 
 Contributions to this repository are welcome! If you have a C++ topic or concept you'd like to write about or if you spot an issue in existing writeups, please consider contributing. You can submit pull requests, report issues, or suggest new topics.
 
 ## License 🖋️
 
 This repository is licensed under the [MIT License](LICENSE), which means you are free to use and modify the code and content provided here for your own learning and projects.
-
-Savour the journey through my memory-call back writeups with C++! 😻
