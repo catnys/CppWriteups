@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/catnys/Documents/github/CppWriteups/References/main'
+relocations:     []
+...

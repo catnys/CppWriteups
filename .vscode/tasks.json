@@ -2,8 +2,8 @@
     "tasks": [
         {
             "type": "cppbuild",
-            "label": "C/C++: clang build active file",
-            "command": "/opt/homebrew/opt/llvm/bin/clang",
+            "label": "C/C++: clang++ build active file",
+            "command": "/opt/homebrew/opt/llvm/bin/clang++",
             "args": [
                 "-fcolor-diagnostics",
                 "-fansi-escape-codes",
